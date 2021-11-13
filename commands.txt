@@ -1,0 +1,2 @@
+command to run stream.py: python3 stream.py -f "sentiment" -b 151999
+Batch Size = 151999
